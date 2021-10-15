@@ -1,0 +1,2 @@
+6 binaire : 0110
+28 binaire :0001 0100
